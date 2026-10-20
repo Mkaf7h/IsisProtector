@@ -1,6 +1,8 @@
-# 🛡️ IsisFuscator
-
 <div align="center">
+
+<img src="https://i.pinimg.com/736x/6c/f0/21/6cf021b41941e1e25bf48ea548be27cf.jpg" alt="IsisFuscator Banner" width="650"/>
+
+# 🛡️ IsisFuscator
 
 ### Professional .NET Protection & Obfuscation Suite
 
@@ -38,7 +40,7 @@
 ### 👻 4. Stealth Virtualization
 - **DnSpy Crasher:** Injects malformed types with null bytes (`\0`) and recursive branching that instantly crashes decompiler tree views.
 - **Fake Obfuscator Attributes:** Injects decoy attributes (ConfuserEx, Babel, Xenocode, Yano, SmartAssembly) to mislead reverse engineers.
-- **Type Scrambling & Method Hiding:** Obfuscates metadata tables and method signatures.
+- **Type Scrambler & Method Hiding:** Obfuscates metadata tables and method signatures.
 
 ---
 
