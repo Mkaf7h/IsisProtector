@@ -69,7 +69,7 @@
 
 ---
 
-## Credits & Team
+## Developerss & Team
 
 - **Designer:** Nmk (Dis: .5.1.1._.)
 - **Developer:** Mkaf7h (Snapchat: c7k.mkaf7h)
