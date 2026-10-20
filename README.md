@@ -4,7 +4,7 @@
 
 # IsisFuscator
 
-### Professional .NET Protection & Obfuscation Suite
+### 
 
 </div>
 
@@ -22,9 +22,9 @@
 
 ---
 
-## Core Features
+## Features
 
-### 1. Advanced Renamer
+### 1.  Renamer
 - **Smart & Safe Renaming:** Obfuscates namespaces, non-public types, methods, and fields while fully preserving Windows Forms UI classes, entry points, and public APIs to ensure crash-free execution.
 - **Custom Prefixes & Lengths:** Configure custom identifier prefixes, character sets, and name lengths.
 
@@ -71,13 +71,14 @@
 
 ## Credits & Team
 
-- **Designer:** Rakan (Dis: tktkz)
+- **Designer:** Nmk (Dis: .5.1.1._.)
 - **Developer:** Mkaf7h (Snapchat: c7k.mkaf7h)
-- **Partner:** Mugy (Instagram: mugy.2011)
-- **Group:** © 2026 Nubersec Group. All Rights Reserved.
+- **Partner:** Mugy
+- **partner:** Rakan (Dis: tktkz)
+- **Group:** 2026 Nubersec Group. All Rights Reserved.
 
 ---
 
 ## Disclaimer
 
-**Authorized use only.** IsisFuscator is provided for educational and defensive purposes to protect intellectual property. The authors assume no responsibility for any misuse or illegal activities.
+**.** IsisFuscator is provided for educational and defensive purposes to protect intellectual property. The authors assume no responsibility for any misuse or illegal activities.
