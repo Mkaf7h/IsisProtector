@@ -55,7 +55,7 @@
 1. **Prerequisites:** Ensure .NET 8.0 SDK is installed.
 2. **Clone & Build:**
    ```bash
-   git clone https://github.com/yourusername/IsisFuscator.git
+   git clone https://github.com/Mkaf7h/IsisFuscator.git
    cd IsisFuscator
    dotnet build
    dotnet run
